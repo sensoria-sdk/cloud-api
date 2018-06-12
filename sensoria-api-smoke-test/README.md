@@ -20,5 +20,5 @@ Sensoria.Api.SmokeTest supports the following parameters:
 * testonly: tests only a part of the API calls: valid entries are access / sessions / shoecloset / achievements / shoedetails
 
 Example:
-Sensoria.SmokeTest.Api.exe -environment test -clientid 12345 -clientsecred ASdadkiladhas== -testonly Access
+Sensoria.SmokeTest.Api.exe -environment test -clientid 12345 -clientsecret ASdadkiladhas== -testonly Access
 
